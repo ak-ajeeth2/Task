@@ -28,6 +28,18 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Installation
 
 1. Create a Vite + React project:
-   ```bash
-   npm create vite@latest react-big-calendar-bar-graph
-   cd react-big-calendar-bar-graph
+
+   npm create vite@latest calendartask
+   cd calendartask
+   
+2. Install dependencies:
+
+npm install react-big-calendar date-fns react-modal recharts
+
+3. Update src/App.jsx with the provided code
+
+Open the file src/App.jsx and update its content with the final calendar, modal, and bar chart code.
+
+4. Run the project:
+
+npm run dev
