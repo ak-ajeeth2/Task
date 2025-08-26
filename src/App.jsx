@@ -122,7 +122,6 @@ export default function App() {
       maxHeight: "80vh",
       overflow: "auto",
       boxShadow: "0px 4px 12px rgba(0,0,0,0.3)",
-      zindex:"9999"
     },
   }}
       >
